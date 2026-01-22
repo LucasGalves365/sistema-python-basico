@@ -2,15 +2,15 @@
 
 Projeto desenvolvido para praticar lógica de programação utilizando Python.
 
-## 🛠 Tecnologias
+## Tecnologias
 - Python 3
 
-## ⚙ Funcionalidades
+## Funcionalidades
 - Calculadora simples
 - Conversor de temperatura
 - Verificação de número par ou ímpar
 - Menu interativo no terminal
 
-## 🎯 Objetivo
+## Objetivo
 Consolidar conceitos básicos de programação como estruturas condicionais,
 laços de repetição e funções.
